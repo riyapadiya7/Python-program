@@ -1,0 +1,2 @@
+ERROR:root:Error occurred: division by zero
+ERROR:root:Error occurred: division by zero
